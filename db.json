@@ -1,0 +1,59 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Rico kurnia",
+      "nohp": "084545757"
+    },
+    {
+      "id": 2,
+      "nama": "sugiono",
+      "nohp": "021545757"
+    },
+    {
+      "nama": "sdswd",
+      "nohp": "3324",
+      "id": 3
+    },
+    {
+      "nama": "sdswd",
+      "nohp": "3324",
+      "id": 4
+    },
+    {
+      "nama": "sdswd",
+      "nohp": "3324",
+      "id": 5
+    },
+    {
+      "nama": "sdswd",
+      "nohp": "3324",
+      "id": 6
+    },
+    {
+      "nama": "polpol",
+      "nohp": "123",
+      "id": 7
+    },
+    {
+      "nama": "polpol",
+      "nohp": "123",
+      "id": 8
+    },
+    {
+      "nama": "polpol",
+      "nohp": "123",
+      "id": 9
+    },
+    {
+      "nama": "coco",
+      "nohp": "222",
+      "id": 10
+    },
+    {
+      "nama": "ad",
+      "nohp": "23",
+      "id": 11
+    }
+  ]
+}
