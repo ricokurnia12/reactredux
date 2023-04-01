@@ -25,7 +25,7 @@ const ListKontak = () => {
           );
         })
       ) : getListKontakLoading ? (
-        <p>LOADING. . . </p>
+        <p>LOADING. . .... </p>
       ) : (
         <p>
           {getListKontakError ? getListKontakError : 'Data Kosong'}
